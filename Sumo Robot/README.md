@@ -1,6 +1,8 @@
 **SUMO ROBOT**
+==============
 
 ***Torneo de Sumo Robot***
+==========================
 
 Descripción: dos robots compiten entre sí simulando los enfrentamientos
 humanos de sumo. No se permite a los robots la utilización de armas ni
