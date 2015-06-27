@@ -57,6 +57,8 @@ ancho apropiado para cada clase de robot, en el borde exterior de la
 superficie de juego. El área del Dohyo se extiende hasta el borde
 exterior de esta línea circular.
 
+![Esquema de conexións da botoneira](esquema.png)
+![Sumo Ring](dohyomini.png)
 <img style="float:center" src="https://raw.githubusercontent.com/Scraw/OpenSource-Robot-Challenges-Rulebooks/master/SumoRobot/dohyomini.png" width="400" height="400">
 
 **Especificaciones del Dohyo**
@@ -362,6 +364,6 @@ estas deberán ser lo suficientemente flexibles para abarcar cambios en el núme
 y en el contenido de las partidas.
 
 Esta obra está bajo una [licencia de Creative Commons Reconocimiento 4.0 Internacional](http://creativecommons.org/licenses/by/4.0/).
-<center><img style="float:center" src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png"></center>
+<img style="float:center" src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png"></center>
 
 Reglamento derivado del [Unified Sumo RobotRules](http://robogames.net/rules/all-sumo.php)
