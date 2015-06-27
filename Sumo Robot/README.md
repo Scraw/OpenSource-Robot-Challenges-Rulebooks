@@ -58,6 +58,7 @@ superficie de juego. El área del Dohyo se extiende hasta el borde
 exterior de esta línea circular.
 
 ![](SumoRobotRulebookV2_ESP%20solo%20texto_html_m335ae6b7.png)\
+![Alt text](/dohyomini.png)
 
 
 **Especificaciones del Dohyo**
