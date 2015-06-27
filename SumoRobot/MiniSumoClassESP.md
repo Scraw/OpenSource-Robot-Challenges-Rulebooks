@@ -322,7 +322,7 @@ dos puntos al oponente.
 **Artículo 19.- Acumulación de faltas**
 ---------------------------------------
 
-Las faltas leves descritas en el artículo 17 son acumulativas a lo larto
+Las faltas leves descritas en el artículo 17 son acumulativas a lo largo
 de toda la ronda. Dos faltas leves conllevan otorgar un punto al
 oponente.
 
