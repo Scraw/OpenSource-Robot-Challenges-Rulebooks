@@ -63,7 +63,7 @@ exterior de esta línea circular.
 **Especificaciones del Dohyo**
 
   ----------- ------------ -------------- -------------- -------------- ---------------- ------------------ -----------------
-  **Clase**   **Altura**   **Diámetro**   **Material**   **Grosor\***   **Longitud\***   **Separación\***   **Ancho Borde**
+  **Clase**   **Altura**   **Diámetro**   **Material**   **Grosor***   **Longitud***   **Separación***   **Ancho Borde**
   **Mini**    19 mm        77 cm          MDF            2 cm           10 cm            10 cm              2,5 cm
   ----------- ------------ -------------- -------------- -------------- ---------------- ------------------ -----------------
 
@@ -97,8 +97,6 @@ de un robot no causarán la pérdida de la partida.
 2\. La masa total de un robot al comienzo de una partida debe estar por
 debajo de la especificada para cada clase.
 
-\
-
 **Clases**
 
 Para este torneo sólo se contempla una única clase con las siguientes
@@ -108,8 +106,6 @@ especificaciones
   **Clase**   **Altura**   **Anchura**   **Longitud**   **Masa**
   **Mini**    Ilimitada    10 cm         10 cm          500 gr
   ----------- ------------ ------------- -------------- ----------
-
-\
 
 3\. **Clases autónomas:** Los robots de la clase Mini (500gr) deben ser
 autónomos. Se puede utilizar cualquier método de control, siempre y
@@ -301,21 +297,15 @@ Se considera una falta leve cuando un participante:
 1\. Entra en el Dohyo durante la ronda, excepto cuando el participante lo
 hace para recoger el robot fuera del Dohyo una vez el juez anunció la
 asignación del punto o para la ronda. Entrar en el Dohyo significa:
-
 a\. una parte del cuerpo del participante está en el Dohyo.
-
 b\. un participante utiliza algún mecanismo para tocar el Dohyo.
 
 2\. Realiza las siguientes acciones:
-
 a\. Exige parar la ronda sin razones aparentes.
-
 b\. Tarda más de 30 segundos para comenzar la ronda, a menos que el juez
 incremente el tiempo.
-
 c\. Poner en funcionamiento el robot dentro de los cinco segundos después
 de que el juez anuncia el comienzo de la ronda.
-
 d\. Hacer alusiones a la imparcialidad de la ronda, la partida o el
 torneo.
 
@@ -374,15 +364,10 @@ estas deberán ser lo
 suficientemente flexibles para abarcar cambios en el número de jugadores
 y en el contenido de las partidas.
 
-\
-
-\
-
 Esta obra está bajo una [licencia de Creative Commons Reconocimiento 4.0
 Internacional](http://creativecommons.org/licenses/by/4.0/).
 
 ![](SumoRobotRulebookV2_ESP%20solo%20texto_html_6224b87e.png)\
-\
 
 Reglamento derivado del [Unified Sumo Robot
 Rules](http://robogames.net/rules/all-sumo.php)
