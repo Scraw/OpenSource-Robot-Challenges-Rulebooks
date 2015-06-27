@@ -59,7 +59,7 @@ exterior de esta línea circular.
 
 ![](SumoRobotRulebookV2_ESP%20solo%20texto_html_m335ae6b7.png)\
 ![Alt text][dohyo]
-[dohyo]: https://github.com/Scraw/OpenSource-Robot-Challenges-Rulebooks/tree/master/Sumo Robot/dohyomini.png "Dohyo!!!"
+[dohyo]: https://github.com/Scraw/OpenSource-Robot-Challenges-Rulebooks/tree/master/Sumo%20Robot/dohyomini.png "Dohyo!!!"
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
