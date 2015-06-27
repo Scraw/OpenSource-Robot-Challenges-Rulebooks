@@ -67,7 +67,7 @@ exterior de esta línea circular.
 
 Estas medidas pueden variar un 5%
 
-***Líneas de inicio (*shikiri-sen*)
+**Líneas de inicio* (*shikiri-sen*)
 
 
 **Artículo 4.-** Exterior del Dohyo
