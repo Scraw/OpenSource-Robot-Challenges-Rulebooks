@@ -147,6 +147,9 @@ frontal, que puedan dañar el Dohyo, otros robots o a los participantes.
 Los bordes que, a criterio de los jueces, se consideren que pueden
 causar daño deberán ser cubiertos con algún tipo de cinta.
 
+9\. El uso de cualquier tipo de fuente de energía para el funcionamiento
+del robot que no 	sea la proporcionada por pilas o baterías eléctricas.
+
 Sección 4: Desarrollo de las partidas
 ====================================
 
