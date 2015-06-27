@@ -60,7 +60,7 @@ exterior de esta línea circular.
 
 ![Alt text][dohyo]
 [dohyo]: https://raw.githubusercontent.com/Scraw/OpenSource-Robot-Challenges-Rulebooks/master/Sumo%20Robot/dohyomini.png "Dohyo!!!"
-<img style="float: right" src="https://github.com/Scraw/OpenSource-Robot-Challenges-Rulebooks/tree/master/SumoRobot/dohyomini.png" width="200" height="200">
+<img style="float: right" src="https://raw.githubusercontent.com/Scraw/OpenSource-Robot-Challenges-Rulebooks/master/Sumo%20Robot/dohyomini.png" width="200" height="200">
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
