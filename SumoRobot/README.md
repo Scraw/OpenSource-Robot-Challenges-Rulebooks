@@ -65,8 +65,10 @@ exterior de esta línea circular.
 |--- | --- | --- | --- | --- | --- |--- | --- |
 |  **Mini** |   19 mm   |     77 cm     |     MDF     |       2 cm     |      10 cm     |       10 cm     |         2,5 cm |
 
-`Líneas de inicio (*shikiri-sen*)`
 `Estas medidas pueden variar un 5%`
+
+`Líneas de inicio (*shikiri-sen*)`
+
 
 **Artículo 4.-** Exterior del Dohyo
 -----------------------------------
