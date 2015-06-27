@@ -63,12 +63,9 @@ exterior de esta línea circular.
 
 **Especificaciones del Dohyo**
 
------------ ------------ -------------- -------------- -------------- ---------------- ------------------ -----------------
 | **Clase** | **Altura** | **Diámetro** | **Material** | **Grosor*** | **Longitud*** | **Separación*** | **Ancho Borde** |
 |--- | --- | --- | --- | --- | --- |--- | --- |
 |  **Mini** |   19 mm   |     77 cm     |     MDF     |       2 cm     |      10 cm     |       10 cm     |         2,5 cm
------------ ------------ -------------- -------------- -------------- ---------------- ------------------ -----------------
-
 
 Markdown | Less | Pretty
 --- | --- | ---
@@ -76,8 +73,7 @@ Markdown | Less | Pretty
 1 | 2 | 3
 
 \* Líneas de inicio (*shikiri-sen*)
-
-Estas medidas pueden variar un 5%
+###### Estas medidas pueden variar un 5%
 
 **Artículo 4.-** Exterior del Dohyo
 -----------------------------------
