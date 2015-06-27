@@ -64,9 +64,16 @@ exterior de esta línea circular.
 **Especificaciones del Dohyo**
 
 ----------- ------------ -------------- -------------- -------------- ---------------- ------------------ -----------------
-| **Clase** |  **Altura** |  **Diámetro**   **Material**   **Grosor***   **Longitud***   **Separación***   **Ancho Borde**
-|  **Mini** |   19 mm   |     77 cm          MDF            2 cm           10 cm            10 cm              2,5 cm
+| **Clase** | **Altura** | **Diámetro** | **Material** | **Grosor*** | **Longitud*** | **Separación*** | **Ancho Borde** |
+|--- | --- | --- | --- | --- | --- |--- | --- |
+|  **Mini** |   19 mm   |     77 cm     |     MDF     |       2 cm     |      10 cm     |       10 cm     |         2,5 cm
 ----------- ------------ -------------- -------------- -------------- ---------------- ------------------ -----------------
+
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 
 \* Líneas de inicio (*shikiri-sen*)
 
