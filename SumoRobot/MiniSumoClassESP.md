@@ -147,7 +147,7 @@ frontal, que puedan dañar el Dohyo, otros robots o a los participantes.
 Los bordes que, a criterio de los jueces, se consideren que pueden
 causar daño deberán ser cubiertos con algún tipo de cinta.
 
-Seción 4: Desarrollo de las partidas
+Sección 4: Desarrollo de las partidas
 ====================================
 
 **Artículo 7.-** Desarrollo de las partidas
