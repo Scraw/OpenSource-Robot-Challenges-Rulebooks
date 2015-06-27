@@ -57,7 +57,8 @@ ancho apropiado para cada clase de robot, en el borde exterior de la
 superficie de juego. El área del Dohyo se extiende hasta el borde
 exterior de esta línea circular.
 
-<div style="text-align: left"><img src="https://raw.githubusercontent.com/Scraw/OpenSource-Robot-Challenges-Rulebooks/master/SumoRobot/dohyomini.png" width="400" height="400"></div>
+<img src="https://raw.githubusercontent.com/Scraw/OpenSource-Robot-Challenges-Rulebooks/master/SumoRobot/dohyomini.png" width="400" height="400">
+
 
 **Especificaciones del Dohyo**
 
