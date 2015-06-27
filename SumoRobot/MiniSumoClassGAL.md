@@ -29,7 +29,7 @@ segundo o especificado na Sección 3. As roldas comezan ás ordes do xuíz
 e continúa ata que un participante gaña dous puntos. O xuíz determina o
 gañador do enfrontamento.
 
-Sección 2: Requisitos del Dohyo
+Sección 2: Requisitos do Dohyo
 ===============================
 
 **Artigo 2.-** Interior do Dohyo
