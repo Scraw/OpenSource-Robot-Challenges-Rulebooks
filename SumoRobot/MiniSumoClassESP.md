@@ -362,6 +362,12 @@ Siempre y cuando se respeten el concepto y fundamentos de las reglas,
 estas deberán ser lo suficientemente flexibles para abarcar cambios en el número de jugadores
 y en el contenido de las partidas.
 
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
+
 Esta obra está bajo una [licencia de Creative Commons Reconocimiento 4.0 Internacional](http://creativecommons.org/licenses/by/4.0/).
 <img style="float:center" src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png"></center>
 
