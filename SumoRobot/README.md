@@ -57,18 +57,7 @@ ancho apropiado para cada clase de robot, en el borde exterior de la
 superficie de juego. El área del Dohyo se extiende hasta el borde
 exterior de esta línea circular.
 
-
-![Alt text][dohyo]
-[dohyo]: https://raw.githubusercontent.com/Scraw/OpenSource-Robot-Challenges-Rulebooks/master/Sumo%20Robot/dohyomini.png "Dohyo!!!"
-<img style="float: right" src="https://raw.githubusercontent.com/Scraw/OpenSource-Robot-Challenges-Rulebooks/master/Sumo%20Robot/dohyomini.png" width="200" height="200">
-
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
+<img style="float: center" src="https://raw.githubusercontent.com/Scraw/OpenSource-Robot-Challenges-Rulebooks/master/Sumo%20Robot/dohyomini.png" width="400" height="400">
 
 **Especificaciones del Dohyo**
 
