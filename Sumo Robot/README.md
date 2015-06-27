@@ -2,7 +2,6 @@
 ==============
 
 ***Torneo de Sumo Robot***
-==========================
 
 Descripción: dos robots compiten entre sí simulando los enfrentamientos
 humanos de sumo. No se permite a los robots la utilización de armas ni
@@ -59,7 +58,7 @@ superficie de juego. El área del Dohyo se extiende hasta el borde
 exterior de esta línea circular.
 
 ![](SumoRobotRulebookV2_ESP%20solo%20texto_html_m335ae6b7.png)\
-\
+
 
 **Especificaciones del Dohyo**
 
