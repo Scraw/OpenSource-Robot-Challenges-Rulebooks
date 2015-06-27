@@ -2,29 +2,29 @@
 
 ***Torneo de Sumo Robot***
 
-\
-\
+
+
 
 Descripción: dos robots compiten entre sí simulando los enfrentamientos
 humanos de sumo. No se permite a los robots la utilización de armas ni
 girar sobre sí mismos, y el único objetivo es empujar al robot oponente
 para sacarlo del Dohyo.
 
-\
+
 
 El torneo se lleva a cabo mediante el sistema de eliminación simple al
 mejor de 3 rondas. El robot que primero consiga dos puntos pasará a la
 siguiente fase del torneo.
 
-\
+
 
 El reglamento se detalla a continuación.
 
-\
+
 
 Reglamento Sumo Robot (Categoría Mini) Rev:2
 
-\
+
 
 Sección 1: Definición de los enfrentamientos de Sumo Robot {.western}
 ==========================================================
@@ -53,31 +53,31 @@ Dohyo.
 **Artículo 3.-** Especificaciones del Dohyo {.western}
 -------------------------------------------
 
-1\. El Dohyo será de forma circular y de unas dimensiones adecuadas para
+1. El Dohyo será de forma circular y de unas dimensiones adecuadas para
 cada clase de robot.
 
-2\. Las líneas de inicio (*shikiri-sen*) constan de dos líneas paralelas
+2. Las líneas de inicio (*shikiri-sen*) constan de dos líneas paralelas
 pintadas en color marrón (o equivalente para la absorción de la luz IR)
 centradas en el Dohyo, con unas dimensiones y espacio de separación
 adaptadas a cada clase de robot. La distancia de separación entre las
 líneas se mide a sus bordes exteriores.
 
-3\. La línea del borde se marca como un anillo circular blanco de un
+3. La línea del borde se marca como un anillo circular blanco de un
 ancho apropiado para cada clase de robot, en el borde exterior de la
 superficie de juego. El área del Dohyo se extiende hasta el borde
 exterior de esta línea circular.
 
-![](SumoRobotRulebookV2_ESP%20solo%20texto_html_m335ae6b7.png)\
-\
+![](SumoRobotRulebookV2_ESP%20solo%20texto_html_m335ae6b7.png)
+
 
 **Especificaciones del Dohyo**
 
   ----------- ------------ -------------- -------------- -------------- ---------------- ------------------ -----------------
-  **Clase**   **Altura**   **Diámetro**   **Material**   **Grosor\***   **Longitud\***   **Separación\***   **Ancho Borde**
+  **Clase**   **Altura**   **Diámetro**   **Material**   **Grosor***   **Longitud***   **Separación***   **Ancho Borde**
   **Mini**    19 mm        77 cm          MDF            2 cm           10 cm            10 cm              2,5 cm
   ----------- ------------ -------------- -------------- -------------- ---------------- ------------------ -----------------
 
-\* Líneas de inicio (*shikiri-sen*)
+* Líneas de inicio (*shikiri-sen*)
 
 Estas medidas pueden variar un 5%
 
@@ -96,7 +96,7 @@ Sección 3: Reglamentación para los Robots {.western}
 **Artículo 5.-** Especificaciones {.western}
 ---------------------------------
 
-1\. El robot debe caber en un cubo de las dimensiones establecidas para
+1. El robot debe caber en un cubo de las dimensiones establecidas para
 cada clase. Un robot puede expandirse en tamaño una vez se da comienzo
 al enfrentamiento, pero no puede separarse físicamente en pedazos y debe
 seguir siendo un sólo robot centralizado. Los robots que no cumplan esta
@@ -104,10 +104,10 @@ restricción perderán la partida. Los tornillos, tuercas y otras partes
 del robot con una masa total de menos de 5 gramos que caigan del cuerpo
 de un robot no causarán la pérdida de la partida.
 
-2\. La masa total de un robot al comienzo de una partida debe estar por
+2. La masa total de un robot al comienzo de una partida debe estar por
 debajo de la especificada para cada clase.
 
-\
+
 
 **Clases**
 
@@ -119,9 +119,9 @@ especificaciones
   **Mini**    Ilimitada    10 cm         10 cm          500 gr
   ----------- ------------ ------------- -------------- ----------
 
-\
 
-3\. **Clases autónomas:** Los robots de la clase Mini (500gr) deben ser
+
+3. **Clases autónomas:** Los robots de la clase Mini (500gr) deben ser
 autónomos. Se puede utilizar cualquier método de control, siempre y
 cuando esté integrado enteramente en el robot y no reciba señales o
 indicaciones externas (de cualquier tipo). El funcionamiento autónomo
@@ -129,34 +129,34 @@ del robot no debe comenzar antes de 5 segundos después de ser iniciado
 por el usuario. Los robots que no respeten el intervalo de los 5
 segundos pierden el punto de esa ronda.
 
-4\. El robot debe tener un nombre o número con fines de registro y
+4. El robot debe tener un nombre o número con fines de registro y
 seguimiento. El robot debe mostrar este nombre o número para permitir su
 identificación a la organización y jueces y a los espectadores.
 
-**Artículo 6.-** Restricciones {.western}
+**Artículo 6.-** Restricciones
 ------------------------------
 
-1\. Dispositivos para crear interferencias (jamming), como LED’s IR con
+1. Dispositivos para crear interferencias (jamming), como LED’s IR con
 la intención de saturar los sensores IR del oponente.
 
-2\. Partes que puedan dañar o romper el Dohyo. Usar partes que puedan
+2. Partes que puedan dañar o romper el Dohyo. Usar partes que puedan
 dañar intencionadamente al robot oponente o a su operador. Los empujones
 y golpes derivados de estos no están considerados con intención de
 causar daño.
 
-3\. Dispositivos que puedan almacenar líquidos, polvo, gas u otras
+3. Dispositivos que puedan almacenar líquidos, polvo, gas u otras
 sustancias para lanzar al oponente.
 
-4\. Dispositivos de pirotecnia.
+4. Dispositivos de pirotecnia.
 
-5\. Dispositivos que lancen objetos al oponente.
+5. Dispositivos que lancen objetos al oponente.
 
-6\. La utilización de sustancias pegajosas para incrementar la tracción.
+6. La utilización de sustancias pegajosas para incrementar la tracción.
 
-7\. El uso de dispositivos para incrementar el “efecto suelo”, como
+7. El uso de dispositivos para incrementar el “efecto suelo”, como
 bombas de vacío o imanes.
 
-8\. El uso de bordes afilados, incluidos pero no limitados a la pala
+8. El uso de bordes afilados, incluidos pero no limitados a la pala
 frontal, que puedan dañar el Dohyo, otros robots o a los participantes.
 Los bordes que, a criterio de los jueces, se consideren que pueden
 causar daño deberán ser cubiertos con algún tipo de cinta.
@@ -167,17 +167,17 @@ Seción 4: Desarrollo de las partidas {.western}
 **Artículo 7.-** Desarrollo de las partidas {.western}
 -------------------------------------------
 
-1\. Una partida consta de tres rondas, con un tiempo total de tres
+1. Una partida consta de tres rondas, con un tiempo total de tres
 minutos, a menos que sea extendido por los jueces.
 
-2\. El primer participante que gane dos rondas o reciba dos puntos,
+2. El primer participante que gane dos rondas o reciba dos puntos,
 dentro del tiempo límite, será el ganador de la partida. Un participante
 recibe un punto cuando gana una ronda. Si se alcanza el límite de tiempo
 antes de que un participante pueda obtener dos puntos y uno de los
 participantes ha recibido un punto, el participante con ese punto se
 considera el ganador de la partida.
 
-3\. Cuando haya un empate entre dos participantes y se alcance el tiempo
+3. Cuando haya un empate entre dos participantes y se alcance el tiempo
 límite, podría establecerse una nueva ronda (ronda extendida), durante
 la cual el participante que consiga el punto se convertirá en el ganador
 de la partida.
@@ -232,11 +232,11 @@ de 3 minutos.
 
 Lo siguiente no está incluido dentro del tiempo de partida:
 
-1\. El tiempo transcurrido desde que los jueces anuncian el punto de la
+1. El tiempo transcurrido desde que los jueces anuncian el punto de la
 ronda hasta el comienzo de la siguiente ronda. El tiempo establecido
 entre rondas es de 30 segundos.
 
-2\. El tiempo transcurrido desde que los jueces anuncian la parada de la
+2. El tiempo transcurrido desde que los jueces anuncian la parada de la
 ronda hasta su reanudación.
 
 Sección 7: Puntuación {.western}
@@ -247,33 +247,33 @@ Sección 7: Puntuación {.western}
 
 Un punto se otorga cuando:
 
-1\. Un participante fuerza al robot contrincante a tocar el área fuera
+1. Un participante fuerza al robot contrincante a tocar el área fuera
 del Dohyo, incluyendo el borde lateral del mismo.
 
-2\. El robot contrincante, por sí mismo, toca el área fuera del Dohyo,
+2. El robot contrincante, por sí mismo, toca el área fuera del Dohyo,
 incluyendo el borde lateral del mismo.
 
 Se mantiene esta norma hasta que se anuncia el final de la ronda.
 
-3\. Cuando se requiera la decisión de los jueces para determinar el
+3. Cuando se requiera la decisión de los jueces para determinar el
 ganador de una ronda se tendrán en cuenta las siguientes
 consideraciones:
 
-a\. méritos técnicos en el movimiento y funcionamiento de un robot.
+a. méritos técnicos en el movimiento y funcionamiento de un robot.
 
-b\. las penalizaciones durante la ronda.
+b. las penalizaciones durante la ronda.
 
-c\. actitud del participante durante la partida.
+c. actitud del participante durante la partida.
 
-4\. La ronda se detendrá y volverá a comenzar en las siguientes
+4. La ronda se detendrá y volverá a comenzar en las siguientes
 condiciones:
 
-a\. los robots están enredados u orbitando entre sí sin ningún progreso
+a. los robots están enredados u orbitando entre sí sin ningún progreso
 aparente durante 5 segundos. Si no está clara la intención de los
 robots, el juez puede prorrogar dicho plazo hasta un máximo de 30
 segundos.
 
-b\. ambos robots se mueven sin intención de luchar, o se paran al mismo
+b. ambos robots se mueven sin intención de luchar, o se paran al mismo
 tiempo y permanecen detenidos durante 5 segundos sin tocarse. Sin
 embargo, si un robot detiene su movimiento en primer lugar,
 transcurridos cinco segundos será declarado como que no tiene intención
@@ -282,7 +282,7 @@ de luchar. En este caso, el oponente recibirá un punto, incluso si éste
 si se están progresando, el juez puede prorrogar el plazo hasta un
 máximo de 30 segundos.
 
-c\. si los dos robots tocan el exterior del Dohyo más o menos al mismo
+c. si los dos robots tocan el exterior del Dohyo más o menos al mismo
 tiempo, y no se puede determinar quién tocó en primer lugar, se
 comenzará una nueva ronda.
 
@@ -308,25 +308,25 @@ considera una falta por incumplimiento de este reglamento.
 
 Se considera una falta leve cuando un participante:
 
-1\. Entra en el Dohyo durante la ronda, excepto cuando el participante lo
+1. Entra en el Dohyo durante la ronda, excepto cuando el participante lo
 hace para recoger el robot fuera del Dohyo una vez el juez anunció la
 asignación del punto o para la ronda. Entrar en el Dohyo significa:
 
-a\. una parte del cuerpo del participante está en el Dohyo.
+a. una parte del cuerpo del participante está en el Dohyo.
 
-b\. un participante utiliza algún mecanismo para tocar el Dohyo.
+b. un participante utiliza algún mecanismo para tocar el Dohyo.
 
-2\. Realiza las siguientes acciones:
+2. Realiza las siguientes acciones:
 
-a\. Exige parar la ronda sin razones aparentes.
+a. Exige parar la ronda sin razones aparentes.
 
-b\. Tarda más de 30 segundos para comenzar la ronda, a menos que el juez
+b. Tarda más de 30 segundos para comenzar la ronda, a menos que el juez
 incremente el tiempo.
 
-c\. Poner en funcionamiento el robot dentro de los cinco segundos después
+c. Poner en funcionamiento el robot dentro de los cinco segundos después
 de que el juez anuncia el comienzo de la ronda.
 
-d\. Hacer alusiones a la imparcialidad de la ronda, la partida o el
+d. Hacer alusiones a la imparcialidad de la ronda, la partida o el
 torneo.
 
 Sección 9: Penalizaciones {.western}
@@ -384,15 +384,15 @@ estas deberán ser lo
 suficientemente flexibles para abarcar cambios en el número de jugadores
 y en el contenido de las partidas.
 
-\
 
-\
+
+
 
 Esta obra está bajo una [licencia de Creative Commons Reconocimiento 4.0
 Internacional](http://creativecommons.org/licenses/by/4.0/).
 
-![](SumoRobotRulebookV2_ESP%20solo%20texto_html_6224b87e.png)\
-\
+![](SumoRobotRulebookV2_ESP%20solo%20texto_html_6224b87e.png)
+
 
 Reglamento derivado del [Unified Sumo Robot
 Rules](http://robogames.net/rules/all-sumo.php)
