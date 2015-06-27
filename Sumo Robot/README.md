@@ -102,8 +102,9 @@ Para este torneo sólo se contempla una única clase con las siguientes
 especificaciones
 
 
-|**Clase** | **Altura** | **Anchura** | **Longitud** | **Masa** |
-|**Mini** | Ilimitada | 10 cm | 10 cm | 500 gr |
+| **Clase** | **Altura** | **Anchura** | **Longitud** | **Masa** |
+|--- | --- | --- | --- | --- |
+| **Mini** | Ilimitada | 10 cm | 10 cm | 500 gr |
 
 3\. **Clases autónomas:** Los robots de la clase Mini (500gr) deben ser
 autónomos. Se puede utilizar cualquier método de control, siempre y
