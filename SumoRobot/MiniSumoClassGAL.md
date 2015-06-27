@@ -3,355 +3,359 @@
 
 ***Torneo de Sumo Robot***
 
-Descrición: dous robots compiten entre si simulando os enfrontamentos humanos de sumo. Non se permite aos robots a utilización de armas nin xirar sobre si mesmos, e o único obxectivo é empurrar ao robot opoñente para sacalo do Dohyo.
+Descrición: dous robots compiten entre si simulando os enfrontamentos
+humanos de sumo. Non se permite aos robots a utilización de armas nin
+xirar sobre si mesmos, e o único obxectivo é empurrar ao robot opoñente
+para sacalo do Dohyo.
 
-O torneo lévase a cabo mediante o sistema de eliminación simple ao mellor de 3 roldas. O robot que primeiro consiga dous puntos pasará á seguinte fase do torneo.
+O torneo lévase a cabo mediante o sistema de eliminación simple ao
+mellor de 3 roldas. O robot que primeiro consiga dous puntos pasará á
+seguinte fase do torneo.
 
-O regulamento detállase a continuación. 
+O regulamento detállase a continuación.
 
 Regulamento Sumo Robot (Categoría Mini)
 
 Sección 1: Definición dos enfrontamentos de Sumo Robot
-==========================================================
+======================================================
 
 **Artigo 1.-** Definición
----------------------------
+-------------------------
 
-Un enfrontamento líbrase entre dous participantes. De acordo coas regras do xogo (en diante "o presente Regulamento") cada participante compite nun Dohyo (ring de sumo) cun robot construído polo/a participante segundo o especificado na Sección 3. As roldas comezan ás ordes do xuíz e continúa ata que un participante gaña dous puntos. O xuíz determina o gañador do enfrontamento. 
+Un enfrontamento líbrase entre dous participantes. De acordo coas regras
+do xogo (en diante "o presente Regulamento") cada participante compite
+nun Dohyo (ring de sumo) cun robot construído polo/a participante
+segundo o especificado na Sección 3. As roldas comezan ás ordes do xuíz
+e continúa ata que un participante gaña dous puntos. O xuíz determina o
+gañador do enfrontamento.
 
-Sección 2: Requisitos do Dohyo
+Sección 2: Requisitos del Dohyo
 ===============================
 
 **Artigo 2.-** Interior do Dohyo
------------------------------------
+--------------------------------
 
-O interior do Dohyo defínese como a superficie de xogo rodeada dunha liña no bordo, que tamén forma parte da superficie de xogo. Calquera lugar fóra desta área se considera o exterior do Dohyo. 
+O interior do Dohyo defínese como a superficie de xogo rodeada dunha
+liña no bordo, que tamén forma parte da superficie de xogo. Calquera
+lugar fóra desta área se considera o exterior do Dohyo.
 
-**Artigo 3.-** Especificaciones del Dohyo
--------------------------------------------
+**Artigo 3.-** Especificacións do Dohyo
+---------------------------------------
 
-1\. El Dohyo será de forma circular y de unas dimensiones adecuadas para
+1\. O Dohyo será de forma circular e dunhas dimensións axeitadas para
 cada clase de robot.
 
-2\. Las líneas de inicio (*shikiri-sen*) constan de dos líneas paralelas
-pintadas en color marrón (o equivalente para la absorción de la luz IR)
-centradas en el Dohyo, con unas dimensiones y espacio de separación
-adaptadas a cada clase de robot. La distancia de separación entre las
-líneas se mide a sus bordes exteriores.
+2\. As liñas de inicio (*shikiri-sen*) constan de dúas liñas paralelas
+pintadas en cor marrón (ou equivalente para a absorción da luz IR)
+centradas no Dohyo, cunhas dimensións e espazo de separación adaptadas a
+cada clase de robot. A distancia de separación entre as liñas mídese aos
+seus bordos exteriores.
 
-3\. La línea del borde se marca como un anillo circular blanco de un
-ancho apropiado para cada clase de robot, en el borde exterior de la
-superficie de juego. El área del Dohyo se extiende hasta el borde
-exterior de esta línea circular.
+3\. A liña do bordo márcase como un anel circular branco dun ancho
+apropiado para cada clase de robot, no bordo exterior da superficie de
+xogo. A área do Dohyo esténdese ata o bordo exterior desta liña
+circular.
 
 <img src="https://raw.githubusercontent.com/Scraw/OpenSource-Robot-Challenges-Rulebooks/master/SumoRobot/dohyomini.png" width="400" height="400">
 
 
-**Especificaciones del Dohyo**
+**Especificacións do Dohyo**
 
-| **Clase** | **Altura** | **Diámetro** | **Material** | **Grosor*** | **Longitud*** | **Separación*** | **Ancho Borde** |
+| **Clase** | **Altura** | **Diámetro** | **Material** | **Grosor*** | **Lonxitude*** | **Separación*** | **Ancho Bordo** |
 |--- | --- | --- | --- | --- | --- |--- | --- |
 |  **Mini** |   19 mm   |     77 cm     |     MDF     |       2 cm     |      10 cm     |       10 cm     |         2,5 cm |
 
-Estas medidas pueden variar un 5%
+Estas medidas poden variar un 5%
 
-\*Líneas de inicio (*shikiri-sen*)
+\*Liñas de inicio (*shikiri-sen*)
 
 
-**Artigo 4.-** Exterior del Dohyo
------------------------------------
+**Artigo 4.-** Exterior do Dohyo
+--------------------------------
 
-Debe haber un espacio, adecuado a cada clase de robot, fuera del borde
-exterior del Dohyo. Este espacio puede ser de cualquier color, material
-o forma. Este área, con el Dohyo en el medio, se va a llamar el "área
-del Dohyo". Cualquier marca o parte de la plataforma del Dohyo fuera de
-las dimensiones mínimas también serán considerados en el área del Dohyo.
+Debe haber un espazo, axeitado a cada clase de robot, fóra do bordo
+exterior do Dohyo. Este espazo pode ser de calquera cor, material ou
+forma. Este área, co Dohyo no medio, vaise chamar a "área do Dohyo".
+Calquera marca ou parte da plataforma do Dohyo fose das dimensións
+mínimas tamén serán considerados na área do Dohyo.
 
-Sección 3: Reglamentación para los Robots
+Sección 3: Regulamentación para os Robots
 =========================================
 
-**Artigo 5.-** Especificaciones
----------------------------------
+**Artigo 5.-** Especificacións
+------------------------------
 
-1\. El robot debe caber en un cubo de las dimensiones establecidas para
-cada clase. Un robot puede expandirse en tamaño una vez se da comienzo
-al enfrentamiento, pero no puede separarse físicamente en pedazos y debe
-seguir siendo un sólo robot centralizado. Los robots que no cumplan esta
-restricción perderán la partida. Los tornillos, tuercas y otras partes
-del robot con una masa total de menos de 5 gramos que caigan del cuerpo
-de un robot no causarán la pérdida de la partida.
+1\. O robot debe caber nun cubo das dimensións establecidas para cada
+clase. Un robot pode expandirse en tamaño unha vez dáse comezo ao
+enfrontamento, pero non pode separarse fisicamente en anacos e debe
+seguir sendo un só robot centralizado. Os robots que non cumpran esta
+restrición perderán a partida. Os parafusos, roscas e outras partes do
+robot cunha masa total de menos de 5 gramos que caian do corpo dun robot
+non causarán a perda da partida.
 
-2\. La masa total de un robot al comienzo de una partida debe estar por
-debajo de la especificada para cada clase.
+2\. A masa total dun robot ao comezo dunha partida debe estar por debaixo
+da especificada para cada clase.
+
 
 **Clases**
 
-Para este torneo sólo se contempla una única clase con las siguientes
-especificaciones
+Para este torneo só se contempla unha única clase coas seguintes
+especificacións
 
-
-| **Clase** | **Altura** | **Anchura** | **Longitud** | **Masa** |
+| **Clase** | **Altura** | **Anchura** | **Lonxitude** | **Masa** |
 |--- | --- | --- | --- | --- |
 | **Mini** | Ilimitada | 10 cm | 10 cm | 500 gr |
 
-3\. **Clases autónomas:** Los robots de la clase Mini (500gr) deben ser
-autónomos. Se puede utilizar cualquier método de control, siempre y
-cuando esté integrado enteramente en el robot y no reciba señales o
-indicaciones externas (de cualquier tipo). El funcionamiento autónomo
-del robot no debe comenzar antes de 5 segundos después de ser iniciado
-por el usuario. Los robots que no respeten el intervalo de los 5
-segundos pierden el punto de esa ronda.
 
-4\. El robot debe tener un nombre o número con fines de registro y
-seguimiento. El robot debe mostrar este nombre o número para permitir su
-identificación a la organización y jueces y a los espectadores.
+3\. **Clases autónomas:** Os robots da clase Mini (500 gr) deben ser 
+autónomos. Pódese utilizar calquera método de control, sempre e 
+cando estea integrado enteiramente no robot e non reciba sinais ou 
+indicacións externas (de calquera tipo). O
+funcionamento autónomo do robot non debe comezar antes de 5 segundos
+despois de ser iniciado polo usuario. Os robots que non respecten o
+intervalo dos 5 segundos perden o punto desa rolda.
 
-**Artigo 6.-** Restricciones
+4\. O robot debe ter un nome ou número con fins de rexistro e
+seguimento. O robot debe mostrar este nome ou número para permitir a súa
+identificación á organización e xuíces e aos espectadores. </span>
+
+**Artigo 6.-** **Restricións**
 ------------------------------
 
-1\. Dispositivos para crear interferencias (jamming), como LED’s IR con
-la intención de saturar los sensores IR del oponente.
+1\. Dispositivos para crear interferencias (jamming), como LED's IR coa
+intención de saturar os sensores IR do opoñente.
 
-2\. Partes que puedan dañar o romper el Dohyo. Usar partes que puedan
-dañar intencionadamente al robot oponente o a su operador. Los empujones
-y golpes derivados de estos no están considerados con intención de
-causar daño.
+2\. Partes que poidan danar ou romper o Dohyo. Usar partes que poidan
+danar intencionadamente ao robot opoñente ou ao seu operador. Os
+empuxóns e golpes derivados destes non están considerados con intención
+de causar dano.
 
-3\. Dispositivos que puedan almacenar líquidos, polvo, gas u otras
-sustancias para lanzar al oponente.
+3\. Dispositivos que poidan almacenar líquidos, po, gas ou outras
+substancias para lanzar o opoñente.
 
 4\. Dispositivos de pirotecnia.
 
-5\. Dispositivos que lancen objetos al oponente.
+5\. Dispositivos que lancen obxectos ao opoñente.
 
-6\. La utilización de sustancias pegajosas para incrementar la tracción.
+6\. A utilización de substancias pegañentas para incrementar a
+tracción.
 
-7\. El uso de dispositivos para incrementar el “efecto suelo”, como
-bombas de vacío o imanes.
+7\. O uso de dispositivos para incrementar o "efecto chan", como bombas
+de baleiro ou imáns.
 
-8\. El uso de bordes afilados, incluidos pero no limitados a la pala
-frontal, que puedan dañar el Dohyo, otros robots o a los participantes.
-Los bordes que, a criterio de los jueces, se consideren que pueden
-causar daño deberán ser cubiertos con algún tipo de cinta.
+8\. O uso de bordos afiados, incluídos pero non limitados á pa frontal,
+que poidan danar o Dohyo, outros robots ou aos participantes. Os bordos
+que, a criterio dos xuíces, se consideren que poden causar dano deberán
+ser cubertos con algún tipo de fita.
 
-Sección 4: Desarrollo de las partidas
-====================================
+Sección 4: Desenvolvemento das partidas
+=======================================
 
-**Artigo 7.-** Desarrollo de las partidas
+**Artigo 7.-** Desenvolvemento das partidas
 -------------------------------------------
 
-1\. Una partida consta de tres rondas, con un tiempo total de tres
-minutos, a menos que sea extendido por los jueces.
+1\. Unha partida consta de tres roldas, cun tempo total de tres minutos,
+a menos que sexa estendido polos xuíces.
 
-2\. El primer participante que gane dos rondas o reciba dos puntos,
-dentro del tiempo límite, será el ganador de la partida. Un participante
-recibe un punto cuando gana una ronda. Si se alcanza el límite de tiempo
-antes de que un participante pueda obtener dos puntos y uno de los
-participantes ha recibido un punto, el participante con ese punto se
-considera el ganador de la partida.
+2\. O primeiro participante que gañe dúas roldas ou reciba dous puntos,
+dentro do tempo límite, será o gañador da partida. Un participante
+recibe un punto cando gaña unha rolda. Se se alcanza o límite de tempo
+antes de que un participante poida obter dous puntos e un dos
+participantes recibiu un punto, o participante con ese punto considérase
+o gañador da partida.
 
-3\. Cuando haya un empate entre dos participantes y se alcance el tiempo
-límite, podría establecerse una nueva ronda (ronda extendida), durante
-la cual el participante que consiga el punto se convertirá en el ganador
-de la partida.
+3\. Cando haxa un empate entre dous participantes e se alcance o tempo
+límite, podería establecerse unha nova rolda (rolda estendida), durante
+a cal o participante que consiga o punto se converterá no gañador da
+partida.
 
-Sección 5: Comienzo, parada, reanudación y finalización de una ronda
-====================================================================
+Sección 5: Comezo, parada, reanudación e finalización dunha rolda
+=================================================================
 
-**Artigo 8.-** Comienzo
--------------------------
+**Artigo 8.-** Comezo
+---------------------
 
-Tras las instrucciones de los jueces, los dos participantes se acercarán
-al Dohyo y pondrán un robot en su mitad del Dohyo, detrás de la línea de
-inicio. El robot o cualquier parte de este no puede ser colocado más
-allá de la línea de inicio hacia su oponente. No se requiere poner el
-robot directamente detrás de dicha línea de inicio y podrá colocarse en
-cualquier zona siempre que respeta una línea imaginaria respecto de la
-línea de inicio. Cuando el juez anuncie el comienzo de la ronda, los
-participantes activarán sus robots y, después de cinco segundo, los
-robots empezarán a operar. Durante estos cinco segundos los
-participantes deberán abandonar el área del Dohyo.
+Tras as instrucións dos xuíces, os dous participantes achegaranse ao
+Dohyo e poñerán un robot na súa metade do Dohyo, detrás da liña de
+inicio. O robot ou calquera parte deste non pode ser colocado máis alá
+da liña de inicio cara ao seu opoñente. Non se require poñer o robot
+directamente detrás da devandita liña de inicio e poderá colocarse en
+calquera zona sempre que respecta unha liña imaxinaria respecto da liña
+de inicio. Cando o xuíz anuncie o comezo da rolda, os participantes
+activarán os seus robots e, despois de cinco segundo, os robots
+empezarán a operar. Durante estes cinco segundos os participantes
+deberán abandonar a área do Dohyo.
 
-**Artigo 9.-** Parada y reanudación
--------------------------------------
-
-Las rondas se paran y reanudan por indicación de los jueces.
-
-**Artigo 10.-** Finalización
-------------------------------
-
-Las rondas finalizan por indicación de los jueces. Los participantes
-podrán recuperar sus robots en el área del Dohyo.
-
-Sección 6: Tiempo de partida
-============================
-
-**Artigo 11.-** Tiempo de partida
+**Artigo 9.-** Parada e reanudación
 -----------------------------------
 
-Una partida debe llevarse a cabo en un total de 3 minutos, que
-comenzarán y finalizarán por orden de los jueces.
+As roldas se paran e reanudan por indicación dos xuíces.
 
-**Artigo 12.- Ronda extra**
------------------------------
+**Artigo 10.-** Finalización
+----------------------------
 
-Si, por decisión de los jueces, se requiera una ronda extra, ésta tendrá
-una duración máxima
+As roldas finalizan por indicación dos xuíces. Os participantes poderán
+recuperar os seu robots na área do Dohyo.
 
-de 3 minutos.
+Sección 6: Tempo de partida
+===========================
 
-**Artigo 13.- Exclusiones de tiempo**
----------------------------------------
+**Artigo 11.-** Tempo de partida
+--------------------------------
 
-Lo siguiente no está incluido dentro del tiempo de partida:
+Unha partida debe levarse a cabo en un total de 3 minutos, que comezarán
+e finalizarán por orden dos xuíces.
 
-1\. El tiempo transcurrido desde que los jueces anuncian el punto de la
-ronda hasta el comienzo de la siguiente ronda. El tiempo establecido
-entre rondas es de 30 segundos.
+**Artigo 12.- Rolda extra**
+---------------------------
 
-2\. El tiempo transcurrido desde que los jueces anuncian la parada de la
-ronda hasta su reanudación.
+Se, por decisión dos xuíces, se requira unha rolda extra, esta terá unha
+duración máxima de 3 minutos.
+
+**Artigo 13.- Exclusións de tempo**
+-----------------------------------
+
+O seguinte non está incluído dentro do tempo de partida:
+
+1\. O tempo transcorrido dende que os xuíces anuncian o punto da rolda
+ata o comezo da seguinte rolda. O tempo establecido entre roldas é de 30
+segundos.
+
+2\. O tempo transcorrido dende que os xuíces anuncian a parada da rolda
+ata a súa reanudación.
 
 Sección 7: Puntuación
 =====================
 
 **Artigo 14.-** Puntuación
-----------------------------
+--------------------------
 
-Un punto se otorga cuando:
+Un punto outórgase cando:
+1\. Un participante forza ao robot contrincante a tocar a área fóra do
+Dohyo, incluíndo o bordo lateral deste.
 
-1\. Un participante fuerza al robot contrincante a tocar el área fuera
-del Dohyo, incluyendo el borde lateral del mismo.
+2\. O robot contrincante, por si mesmo, toca a área fóra do Dohyo,
+incluíndo o bordo lateral deste.
+ Mantense esta norma ata que se anuncia o final da rolda.
 
-2\. El robot contrincante, por sí mismo, toca el área fuera del Dohyo,
-incluyendo el borde lateral del mismo.
+3\. Cando se requira a decisión dos xuíces para determinar o gañador
+dunha rolda teranse en conta as seguintes consideracións:
 
-Se mantiene esta norma hasta que se anuncia el final de la ronda.
+a\. méritos técnicos no movemento e funcionamento dun robot.
 
-3\. Cuando se requiera la decisión de los jueces para determinar el
-ganador de una ronda se tendrán en cuenta las siguientes
-consideraciones:
+b\. as penalizacións durante a rolda.
 
-a\. méritos técnicos en el movimiento y funcionamiento de un robot.
+c\. actitude do participante durante a partida.
 
-b\. las penalizaciones durante la ronda.
+4\. A rolda deterase e volverá comezar nas seguintes condicións:
 
-c\. actitud del participante durante la partida.
+a\. os robots están enredados ou orbitando entre si sen ningún progreso
+aparente durante 5 segundos. Se non está clara a intención dos robots, o
+xuíz pode prorrogar o devandito prazo ata un máximo de 30 segundos.
 
-4\. La ronda se detendrá y volverá a comenzar en las siguientes
-condiciones:
-
-a\. los robots están enredados u orbitando entre sí sin ningún progreso
-aparente durante 5 segundos. Si no está clara la intención de los
-robots, el juez puede prorrogar dicho plazo hasta un máximo de 30
+b\. ambos os dous robots móvense sen intención de loitar, ou páranse ao
+mesmo tempo e permanecen detidos durante 5 segundos sen tocarse. Non
+obstante, se un robot detén o seu movemento en primeiro lugar,
+transcorridos cinco segundos será declarado como que non ten intención
+de loitar. Neste caso, o opoñente recibirá un punto, mesmo se este
+último tamén se detén. Se os dous robots se moven e non está claro se se
+están a progresar, o xuíz pode prorrogar o prazo ata un máximo de 30
 segundos.
 
-b\. ambos robots se mueven sin intención de luchar, o se paran al mismo
-tiempo y permanecen detenidos durante 5 segundos sin tocarse. Sin
-embargo, si un robot detiene su movimiento en primer lugar,
-transcurridos cinco segundos será declarado como que no tiene intención
-de luchar. En este caso, el oponente recibirá un punto, incluso si éste
-último también se detiene. Si los dos robots se mueven y no está claro
-si se están progresando, el juez puede prorrogar el plazo hasta un
-máximo de 30 segundos.
-
-c\. si los dos robots tocan el exterior del Dohyo más o menos al mismo
-tiempo, y no se puede determinar quién tocó en primer lugar, se
-comenzará una nueva ronda.
+c\. se os dous robots tocan o exterior do Dohyo máis ou menos ao mesmo
+tempo, e non se pode determinar quen tocou en primeiro lugar, comezarase
+unha nova rolda.
 
 Sección 8: Faltas
 =================
 
 **Artigo 15.-** Faltas
-------------------------
+----------------------
 
-Los participantes que realicen cualquiera de los hechos descritos en los
-Artigos 6, 16 o 17, serán amonestados por saltarse este reglamento.
+Os participantes que realicen calquera dos feitos descritos nos Artigos
+6, 16 ou 17, serán amoestados por saltarse este regulamento.
 
 **Artigo 16.-** Insultos
---------------------------
+------------------------
 
-Un participante que profiere insultos al oponente o a los jueces, o pone
-voces en el robot que pronuncie palabras insultantes, o que aparezcan
-escritas en el cuerpo del robot, o que realice gestos insultantes, se
-considera una falta por incumplimiento de este reglamento.
+Un participante que profire insultos ao opoñente ou aos xuíces, ou pon
+voces no robot que pronuncie palabras insultantes, ou que aparezan
+escritas no corpo do robot, ou que realice xestos insultantes,
+considérase unha falta por incumprimento deste regulamento.
 
 **Artigo 17.-** Faltas leves
-------------------------------
+----------------------------
 
-Se considera una falta leve cuando un participante:
+Considérase unha falta leve cando un participante:
+1\. Entra no Dohyo durante a rolda, agás cando o participante o fai para
+recoller o robot fóra do Dohyo unha vez o xuíz anunciou a asignación do
+punto ou para a rolda. Entrar no Dohyo significa:
+a\. unha parte do corpo do participante está no Dohyo.
+b\. un participante utiliza algún mecanismo para tocar o Dohyo.
 
-1\. Entra en el Dohyo durante la ronda, excepto cuando el participante lo
-hace para recoger el robot fuera del Dohyo una vez el juez anunció la
-asignación del punto o para la ronda. Entrar en el Dohyo significa:
-a\. una parte del cuerpo del participante está en el Dohyo.
-b\. un participante utiliza algún mecanismo para tocar el Dohyo.
+2\. Realiza as seguintes accións:
+a\. Esixe parar a rolda sen razóns aparentes.
+b\. Tarda máis de 30 segundos para comezar a rolda, a menos que o xuíz
+incremente o tempo.
+c\. Poñer en funcionamento o robot dentro dos cinco segundos despois de
+que o xuíz anuncia o comezo da rolda.
+d\. Facer alusións á imparcialidade da rolda, a partida ou o torneo.
 
-2\. Realiza las siguientes acciones:
-a\. Exige parar la ronda sin razones aparentes.
-b\. Tarda más de 30 segundos para comenzar la ronda, a menos que el juez
-incremente el tiempo.
-c\. Poner en funcionamiento el robot dentro de los cinco segundos después
-de que el juez anuncia el comienzo de la ronda.
-d\. Hacer alusiones a la imparcialidad de la ronda, la partida o el
-torneo.
+Sección 9: Penalizacións
+========================
 
-Sección 9: Penalizaciones
-=========================
+**Artigo 18.-** Penalizacións
+-----------------------------
 
-**Artigo 18.-** Penalizaciones
---------------------------------
-
-Los jugadores que incumplan los Artigos 6 y 16 del presente reglamento
-perderán la partida y serán descalificados del torneo. El juez otorga
-dos puntos al oponente.
+Os xogadores que incumpran os Artigos 6 e 16 do presente regulamento
+perderán a partida e serán descualificados do torneo. O xuíz outorga
+dous puntos ao opoñente.
 
 **Artigo 19.- Acumulación de faltas**
----------------------------------------
+-------------------------------------
 
-Las faltas leves descritas en el Artigo 17 son acumulativas a lo largo
-de toda la ronda. Dos faltas leves conllevan otorgar un punto al
-oponente.
+As faltas leves descritas no Artigo 17 son acumulativas ao largo de toda
+a rolda. Dúas faltas leves levan consigo outorgar un punto ao opoñente.
 
-**Sección 10: Declaración de objeciones**
+**Sección 10: Declaración de obxeccións**
 =========================================
 
-**Artigo 20.-** Declaración de objeciones
--------------------------------------------
+**Artigo 20.-** Declaración de obxeccións
+-----------------------------------------
 
-No habrá objeciones contra las decisiones de los jueces.
+Non haberá obxeccións contra as decisións dos xuíces.
 
 **Artigo 21.-**
------------------
+---------------
 
-Un participante puede presentar objeciones a la organización antes de
-que termine la ronda, si hay alguna duda en el ejercicio de este
-reglamento. Si no hay miembros de la organización presentes, la objeción
-se puede presentar al juez antes de la finalización de la ronda.
+Un participante pode presentar obxeccións á organización antes de que
+remate a rolda, se hai algunha dúbida no exercicio deste regulamento. Se
+non hai membros da organización presentes, a obxección pódese presentar
+ao xuíz antes da finalización da rolda.
 
-Sección 11: Requerimientos para la identificación de los robots
-===============================================================
+Sección 11: Requirimentos para a identificación dos robots
+==========================================================
 
-**Artigo 22.-** Identificación de los robots
-----------------------------------------------
+**Artigo 22.-** Identificación dos robots
+-----------------------------------------
 
-Los robots deben mostrar algún tipo de identificación (nombre y/o
-número), en lugar bien visible y fácilmente legible, mientras el robot
-se encuentre en la competición.
+Os robots deben mostrar algún tipo de identificación (nome e/ou número),
+en lugar ben visible e doadamente lexible, mentres o robot se encontre
+na competición.
 
 **Sección 12: Miscelánea**
 ==========================
 
-**Artigo 23.-** Flexibilidad del reglamento
----------------------------------------------
+**Artigo 23.-** Flexibilidade do regulamento
+--------------------------------------------
 
-Siempre y cuando se respeten el concepto y fundamentos de las reglas,
-estas deberán ser lo suficientemente flexibles para abarcar cambios en el número de jugadores
-y en el contenido de las partidas.
+Sempre e cando se respecten o concepto e fundamentos das regras, estas
+deberán ser o suficientemente flexibles para abranguer cambios no número de xogadores
+e no contido das partidas.
 
 <br />
 <br />
-Esta obra está bajo una [licencia de Creative Commons Reconocimiento 4.0 Internacional](http://creativecommons.org/licenses/by/4.0/).
+Esta obra está baixo unha [licenza de Creative Commons Recoñecemiento 4.0 Internacional](http://creativecommons.org/licenses/by/4.0/).
 <img style="float:center" src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png"></center>
 
-Reglamento derivado del [Unified Sumo RobotRules](http://robogames.net/rules/all-sumo.php)
+Regulamento derivado do [Unified Sumo RobotRules](http://robogames.net/rules/all-sumo.php)
