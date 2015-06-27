@@ -14,7 +14,7 @@ siguiente fase del torneo.
 
 El reglamento se detalla a continuación.
 
-Reglamento Sumo Robot (Categoría Mini) Rev:2
+Reglamento Sumo Robot (Categoría Mini)
 
 Sección 1: Definición de los enfrentamientos de Sumo Robot
 ==========================================================
