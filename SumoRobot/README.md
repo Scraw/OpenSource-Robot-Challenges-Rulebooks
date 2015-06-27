@@ -65,7 +65,8 @@ exterior de esta línea circular.
 |--- | --- | --- | --- | --- | --- |--- | --- |
 |  **Mini** |   19 mm   |     77 cm     |     MDF     |       2 cm     |      10 cm     |       10 cm     |         2,5 cm |
 
-Estas medidas pueden variar un 5% 
+Estas medidas pueden variar un 5%
+
 \*Líneas de inicio (*shikiri-sen*)
 
 
