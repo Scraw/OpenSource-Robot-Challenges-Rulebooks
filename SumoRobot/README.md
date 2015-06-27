@@ -57,7 +57,7 @@ ancho apropiado para cada clase de robot, en el borde exterior de la
 superficie de juego. El área del Dohyo se extiende hasta el borde
 exterior de esta línea circular.
 
-<img style="float: center" src="https://raw.githubusercontent.com/Scraw/OpenSource-Robot-Challenges-Rulebooks/master/Sumo%20Robot/dohyomini.png" width="400" height="400">
+<img style="float:center" src="https://raw.githubusercontent.com/Scraw/OpenSource-Robot-Challenges-Rulebooks/master/Sumo%20Robot/dohyomini.png" width="400" height="400">
 
 **Especificaciones del Dohyo**
 
@@ -66,7 +66,7 @@ exterior de esta línea circular.
 |  **Mini** |   19 mm   |     77 cm     |     MDF     |       2 cm     |      10 cm     |       10 cm     |         2,5 cm |
 
 `Líneas de inicio (*shikiri-sen*)`
-######## Estas medidas pueden variar un 5%
+`Estas medidas pueden variar un 5%`
 
 **Artículo 4.-** Exterior del Dohyo
 -----------------------------------
