@@ -148,6 +148,9 @@ que poidan danar o Dohyo, outros robots ou aos participantes. Os bordos
 que, a criterio dos xuíces, se consideren que poden causar dano deberán
 ser cubertos con algún tipo de fita.
 
+9\. O uso de calquera tipo de fonte de enerxía para o funcionamento do
+robot que non sexa a proporcionada por pilas ou baterías eléctricas.
+
 Sección 4: Desenvolvemento das partidas
 =======================================
 
