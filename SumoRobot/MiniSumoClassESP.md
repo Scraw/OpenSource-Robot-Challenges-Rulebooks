@@ -358,15 +358,10 @@ se encuentre en la competición.
 ---------------------------------------------
 
 Siempre y cuando se respeten el concepto y fundamentos de las reglas,
-estas deberán ser lo
-
-suficientemente flexibles para abarcar cambios en el número de jugadores
+estas deberán ser lo suficientemente flexibles para abarcar cambios en el número de jugadores
 y en el contenido de las partidas.
 
-Esta obra está bajo una [licencia de Creative Commons Reconocimiento 4.0
-Internacional](http://creativecommons.org/licenses/by/4.0/).
+Esta obra está bajo una [licencia de Creative Commons Reconocimiento 4.0 Internacional](http://creativecommons.org/licenses/by/4.0/).
+<center><img style="float:center" src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png"></center>
 
-![](SumoRobotRulebookV2_ESP%20solo%20texto_html_6224b87e.png)\
-
-Reglamento derivado del [Unified Sumo Robot
-Rules](http://robogames.net/rules/all-sumo.php)
+Reglamento derivado del [Unified Sumo RobotRules](http://robogames.net/rules/all-sumo.php)
