@@ -1,3 +1,3 @@
-# OpenSource-Robot-Challenges-Rulebooks
-In spanish and galician
+# OpenSource Robot Challenges Rulebooks
+In spanish and galician languages
 
