@@ -65,8 +65,9 @@ exterior de esta línea circular.
 
 | **Clase** | **Altura** | **Diámetro** | **Material** | **Grosor*** | **Longitud*** | **Separación*** | **Ancho Borde** |
 |--- | --- | --- | --- | --- | --- |--- | --- |
-|  **Mini** |   19 mm   |     77 cm     |     MDF     |       2 cm     |      10 cm     |       10 cm     |         2,5 cm
-Líneas de inicio (*shikiri-sen*)
+|  **Mini** |   19 mm   |     77 cm     |     MDF     |       2 cm     |      10 cm     |       10 cm     |         2,5 cm |
+
+`Líneas de inicio (*shikiri-sen*)`
 `Estas medidas pueden variar un 5%`
 
 **Artículo 4.-** Exterior del Dohyo
@@ -100,10 +101,9 @@ debajo de la especificada para cada clase.
 Para este torneo sólo se contempla una única clase con las siguientes
 especificaciones
 
-  ----------- ------------ ------------- -------------- ----------
-  **Clase**   **Altura**   **Anchura**   **Longitud**   **Masa**
-  **Mini**    Ilimitada    10 cm         10 cm          500 gr
-  ----------- ------------ ------------- -------------- ----------
+
+|**Clase** | **Altura** | **Anchura** | **Longitud** | **Masa** |
+|**Mini** | Ilimitada | 10 cm | 10 cm | 500 gr |
 
 3\. **Clases autónomas:** Los robots de la clase Mini (500gr) deben ser
 autónomos. Se puede utilizar cualquier método de control, siempre y
