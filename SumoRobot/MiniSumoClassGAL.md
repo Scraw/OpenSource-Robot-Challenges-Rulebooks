@@ -3,44 +3,31 @@
 
 ***Torneo de Sumo Robot***
 
-Descripción: dos robots compiten entre sí simulando los enfrentamientos
-humanos de sumo. No se permite a los robots la utilización de armas ni
-girar sobre sí mismos, y el único objetivo es empujar al robot oponente
-para sacarlo del Dohyo.
+Descrición: dous robots compiten entre si simulando os enfrontamentos humanos de sumo. Non se permite aos robots a utilización de armas nin xirar sobre si mesmos, e o único obxectivo é empurrar ao robot opoñente para sacalo do Dohyo.
 
-El torneo se lleva a cabo mediante el sistema de eliminación simple al
-mejor de 3 rondas. El robot que primero consiga dos puntos pasará a la
-siguiente fase del torneo.
+O torneo lévase a cabo mediante o sistema de eliminación simple ao mellor de 3 roldas. O robot que primeiro consiga dous puntos pasará á seguinte fase do torneo.
 
-El reglamento se detalla a continuación.
+O regulamento detállase a continuación. 
 
-Reglamento Sumo Robot (Categoría Mini) Rev:2
+Regulamento Sumo Robot (Categoría Mini)
 
-Sección 1: Definición de los enfrentamientos de Sumo Robot
+Sección 1: Definición dos enfrontamentos de Sumo Robot
 ==========================================================
 
-**Artículo 1.-** Definición
+**Artigo 1.-** Definición
 ---------------------------
 
-Un enfrentamiento se libra entre dos participantes. De acuerdo con las
-reglas del juego (en adelante "el presente Reglamento") cada
-participante compite en un Dohyo (ring de sumo) con un robot construido
-por el/la participante según lo especificado en la Sección 3. Las rondas
-comienzan a las órdenes del juez y continúa hasta que un participante
-gana dos puntos. El juez determina el ganador del enfrentamiento.
+Un enfrontamento líbrase entre dous participantes. De acordo coas regras do xogo (en diante "o presente Regulamento") cada participante compite nun Dohyo (ring de sumo) cun robot construído polo/a participante segundo o especificado na Sección 3. As roldas comezan ás ordes do xuíz e continúa ata que un participante gaña dous puntos. O xuíz determina o gañador do enfrontamento. 
 
-Sección 2: Requisitos del Dohyo
+Sección 2: Requisitos do Dohyo
 ===============================
 
-**Artículo 2.-** Interior del Dohyo
+**Artigo 2.-** Interior do Dohyo
 -----------------------------------
 
-El interior del Dohyo se define como la superficie de juego rodeada de
-una línea en el borde, que también forma parte de la superficie de
-juego. Cualquier lugar fuera de esta área se considera el exterior del
-Dohyo.
+O interior do Dohyo defínese como a superficie de xogo rodeada dunha liña no bordo, que tamén forma parte da superficie de xogo. Calquera lugar fóra desta área se considera o exterior do Dohyo. 
 
-**Artículo 3.-** Especificaciones del Dohyo
+**Artigo 3.-** Especificaciones del Dohyo
 -------------------------------------------
 
 1\. El Dohyo será de forma circular y de unas dimensiones adecuadas para
@@ -71,7 +58,7 @@ Estas medidas pueden variar un 5%
 \*Líneas de inicio (*shikiri-sen*)
 
 
-**Artículo 4.-** Exterior del Dohyo
+**Artigo 4.-** Exterior del Dohyo
 -----------------------------------
 
 Debe haber un espacio, adecuado a cada clase de robot, fuera del borde
@@ -83,7 +70,7 @@ las dimensiones mínimas también serán considerados en el área del Dohyo.
 Sección 3: Reglamentación para los Robots
 =========================================
 
-**Artículo 5.-** Especificaciones
+**Artigo 5.-** Especificaciones
 ---------------------------------
 
 1\. El robot debe caber en un cubo de las dimensiones establecidas para
@@ -119,7 +106,7 @@ segundos pierden el punto de esa ronda.
 seguimiento. El robot debe mostrar este nombre o número para permitir su
 identificación a la organización y jueces y a los espectadores.
 
-**Artículo 6.-** Restricciones
+**Artigo 6.-** Restricciones
 ------------------------------
 
 1\. Dispositivos para crear interferencias (jamming), como LED’s IR con
@@ -150,7 +137,7 @@ causar daño deberán ser cubiertos con algún tipo de cinta.
 Sección 4: Desarrollo de las partidas
 ====================================
 
-**Artículo 7.-** Desarrollo de las partidas
+**Artigo 7.-** Desarrollo de las partidas
 -------------------------------------------
 
 1\. Una partida consta de tres rondas, con un tiempo total de tres
@@ -171,7 +158,7 @@ de la partida.
 Sección 5: Comienzo, parada, reanudación y finalización de una ronda
 ====================================================================
 
-**Artículo 8.-** Comienzo
+**Artigo 8.-** Comienzo
 -------------------------
 
 Tras las instrucciones de los jueces, los dos participantes se acercarán
@@ -185,12 +172,12 @@ participantes activarán sus robots y, después de cinco segundo, los
 robots empezarán a operar. Durante estos cinco segundos los
 participantes deberán abandonar el área del Dohyo.
 
-**Artículo 9.-** Parada y reanudación
+**Artigo 9.-** Parada y reanudación
 -------------------------------------
 
 Las rondas se paran y reanudan por indicación de los jueces.
 
-**Artículo 10.-** Finalización
+**Artigo 10.-** Finalización
 ------------------------------
 
 Las rondas finalizan por indicación de los jueces. Los participantes
@@ -199,13 +186,13 @@ podrán recuperar sus robots en el área del Dohyo.
 Sección 6: Tiempo de partida
 ============================
 
-**Artículo 11.-** Tiempo de partida
+**Artigo 11.-** Tiempo de partida
 -----------------------------------
 
 Una partida debe llevarse a cabo en un total de 3 minutos, que
 comenzarán y finalizarán por orden de los jueces.
 
-**Artículo 12.- Ronda extra**
+**Artigo 12.- Ronda extra**
 -----------------------------
 
 Si, por decisión de los jueces, se requiera una ronda extra, ésta tendrá
@@ -213,7 +200,7 @@ una duración máxima
 
 de 3 minutos.
 
-**Artículo 13.- Exclusiones de tiempo**
+**Artigo 13.- Exclusiones de tiempo**
 ---------------------------------------
 
 Lo siguiente no está incluido dentro del tiempo de partida:
@@ -228,7 +215,7 @@ ronda hasta su reanudación.
 Sección 7: Puntuación
 =====================
 
-**Artículo 14.-** Puntuación
+**Artigo 14.-** Puntuación
 ----------------------------
 
 Un punto se otorga cuando:
@@ -275,13 +262,13 @@ comenzará una nueva ronda.
 Sección 8: Faltas
 =================
 
-**Artículo 15.-** Faltas
+**Artigo 15.-** Faltas
 ------------------------
 
 Los participantes que realicen cualquiera de los hechos descritos en los
-Artículos 6, 16 o 17, serán amonestados por saltarse este reglamento.
+Artigos 6, 16 o 17, serán amonestados por saltarse este reglamento.
 
-**Artículo 16.-** Insultos
+**Artigo 16.-** Insultos
 --------------------------
 
 Un participante que profiere insultos al oponente o a los jueces, o pone
@@ -289,7 +276,7 @@ voces en el robot que pronuncie palabras insultantes, o que aparezcan
 escritas en el cuerpo del robot, o que realice gestos insultantes, se
 considera una falta por incumplimiento de este reglamento.
 
-**Artículo 17.-** Faltas leves
+**Artigo 17.-** Faltas leves
 ------------------------------
 
 Se considera una falta leve cuando un participante:
@@ -312,29 +299,29 @@ torneo.
 Sección 9: Penalizaciones
 =========================
 
-**Artículo 18.-** Penalizaciones
+**Artigo 18.-** Penalizaciones
 --------------------------------
 
-Los jugadores que incumplan los artículos 6 y 16 del presente reglamento
+Los jugadores que incumplan los Artigos 6 y 16 del presente reglamento
 perderán la partida y serán descalificados del torneo. El juez otorga
 dos puntos al oponente.
 
-**Artículo 19.- Acumulación de faltas**
+**Artigo 19.- Acumulación de faltas**
 ---------------------------------------
 
-Las faltas leves descritas en el artículo 17 son acumulativas a lo largo
+Las faltas leves descritas en el Artigo 17 son acumulativas a lo largo
 de toda la ronda. Dos faltas leves conllevan otorgar un punto al
 oponente.
 
 **Sección 10: Declaración de objeciones**
 =========================================
 
-**Artículo 20.-** Declaración de objeciones
+**Artigo 20.-** Declaración de objeciones
 -------------------------------------------
 
 No habrá objeciones contra las decisiones de los jueces.
 
-**Artículo 21.-**
+**Artigo 21.-**
 -----------------
 
 Un participante puede presentar objeciones a la organización antes de
@@ -345,7 +332,7 @@ se puede presentar al juez antes de la finalización de la ronda.
 Sección 11: Requerimientos para la identificación de los robots
 ===============================================================
 
-**Artículo 22.-** Identificación de los robots
+**Artigo 22.-** Identificación de los robots
 ----------------------------------------------
 
 Los robots deben mostrar algún tipo de identificación (nombre y/o
@@ -355,7 +342,7 @@ se encuentre en la competición.
 **Sección 12: Miscelánea**
 ==========================
 
-**Artículo 23.-** Flexibilidad del reglamento
+**Artigo 23.-** Flexibilidad del reglamento
 ---------------------------------------------
 
 Siempre y cuando se respeten el concepto y fundamentos de las reglas,
