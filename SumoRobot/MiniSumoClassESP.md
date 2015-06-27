@@ -57,8 +57,7 @@ ancho apropiado para cada clase de robot, en el borde exterior de la
 superficie de juego. El área del Dohyo se extiende hasta el borde
 exterior de esta línea circular.
 
-![Sumo Ring](dohyomini.png = 400x400)
-<img style="float:center" src="https://raw.githubusercontent.com/Scraw/OpenSource-Robot-Challenges-Rulebooks/master/SumoRobot/dohyomini.png" width="400" height="400">
+<div style="text-align: left"><img src="https://raw.githubusercontent.com/Scraw/OpenSource-Robot-Challenges-Rulebooks/master/SumoRobot/dohyomini.png" width="400" height="400"></div>
 
 **Especificaciones del Dohyo**
 
